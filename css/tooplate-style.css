@@ -573,9 +573,6 @@ b, strong {
   display: flex;
   justify-content: center;
 }
-#project h2{
-  border-bottom: 1px solid #474559;
-}
 #contact .submit-btn{
   justify-content: center;
   
