@@ -592,3 +592,6 @@ b, strong {
 .timeline-wrapper span{
   display: block;
 }
+#project h2{
+  padding-bottom: 30px;
+}
